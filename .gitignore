@@ -1,0 +1,24 @@
+# Xcode
+.DS_Store
+*.xcuserstate
+*.xcworkspace
+xcuserdata
+*.swiftpm
+.DS_Store
+
+# Swift
+build
+DerivedData
+/*.swiftpm
+
+# Dependency directories
+Pods/
+Carthage/Checkouts/
+
+# Compiled files
+*.o
+*.linkedi
+*.swiftdoc
+*.swiftdoc.json
+*.swiftmodule
+*.swiftsourceinfo
